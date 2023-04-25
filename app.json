@@ -25,6 +25,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "f923b417-5a43-45f7-8896-cc421456c710"
+      }
+    },
+    "owner": "iris_p"
   }
 }
